@@ -1,0 +1,180 @@
+{
+    "Products":[
+        {
+            "Product_ID": 1,
+            "Product_Name": "Cotton Gauze Camp Shirt",
+            "Product_Price": 45.47,
+            "Product_Images": [
+                "https://n.nordstrommedia.com/id/sr3/5acf68e6-7251-4c96-a171-b0db8ceac57e.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/2611f795-7d97-4e28-99a8-c6b5b0713fc5.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/67543efb-7812-4b06-962c-a4dc86a6000a.jpeg?crop=pad&w=780&h=1196"
+            ],
+            "Product_Sizes": [
+                "XSmall",
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "Product_Colors": [
+                "Navy Blazer",
+                "Olive Burnt",
+                "White"
+            ],
+            "Product_Category": "Women"
+        },
+        {
+            "Product_ID": 2,
+            "Product_Name": "Love Language Burnout Tank",
+            "Product_Price": 44.32,
+            "Product_Images": [
+                "https://n.nordstrommedia.com/id/sr3/3d5fdec9-2b77-462d-aff5-611e1898d29c.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/61def62c-08ae-4b9d-be20-fc9a712cafc8.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/43d3cd80-3115-4b76-b7e3-baf1da7f15b8.jpeg?crop=pad&w=780&h=1196"
+            ],
+            "Product_Sizes": [
+                "XSmall",
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "Product_Colors": [
+                "Black",
+                "Dewshine",
+                "Radient Watermelon"
+            ],
+            "Product_Category": "Women"
+        },
+        {
+            "Product_ID": 3,
+            "Product_Name": "Slim Fit Stretch Linen Blend Chino Pants",
+            "Product_Price": 68.40,
+            "Product_Images": [
+                "https://n.nordstrommedia.com/id/sr3/7df44756-185d-4e54-80a4-59825b58d4ac.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/d7b905f8-a31b-49a6-a43c-4149a14795fe.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/06291c76-11b5-4ad1-9d90-da4289ef3029.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/d01ab943-ed71-408f-bf8e-302560b0d390.jpeg?crop=pad&w=780&h=1196"
+            ],
+            "Product_Sizes": [
+                "XSmall",
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "Product_Colors": [
+                "Grey Ultimate",
+                "Tan Desert",
+                "Olive Mayfly",
+                "Navy Blazer"
+            ],
+            "Product_Category": "Men"
+        },
+        {
+            "Product_ID": 4,
+            "Product_Name": "Slim Fit Cotton Twill Dress Shirt",
+            "Product_Price": 206.348,
+            "Product_Images": [
+                "https://n.nordstrommedia.com/id/sr3/0cccabef-e832-4bf0-86de-ed3ac1f20b8f.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/67753a7d-bf36-469e-8c89-6f285fc5dd8c.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/88c2acc1-a05a-49c8-9974-babe86aaabef.jpeg?crop=pad&w=780&h=1196"
+            ],
+            "Product_Sizes": [
+                "XSmall",
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "Product_Colors": [
+                "Black",
+                "White",
+                "Blue"
+            ],
+            "Product_Category": "Men"
+        },
+        {
+            "Product_ID": 5,
+            "Product_Name": "Upton Chukka (Men)",
+            "Product_Price": 129.158,
+            "Product_Images": [
+                "https://n.nordstrommedia.com/id/sr3/3c575f3f-1dd8-44fa-a89a-ad9cac0f7953.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/aa04afb1-5c06-4c6e-b24f-78aee5ed8548.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/7b4657ca-4cd6-4d7b-9414-3214c844da30.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/2184e697-4d61-48b8-a743-8894efbdb397.jpeg?crop=pad&w=780&h=1196"
+            ],
+            "Product_Sizes": [
+                "XSmall",
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "Product_Colors": [
+                "Black",
+                "Blue",
+                "Night Sky",
+                "Whimsy"
+            ],
+            "Product_Category": "Men"
+        },
+        {
+            "Product_ID": 6,
+            "Product_Name": "Kids' Stripe Organic Cotton & Linen Dress",
+            "Product_Price": 84.068,
+            "Product_Images": [
+                "https://n.nordstrommedia.com/id/sr3/bbd2c50e-95a3-4a0d-988f-cf904bfb24c4.jpeg?crop=pad&w=780&h=1196"
+            ],
+            "Product_Sizes": [
+                "4-5Y",
+                "6-7Y",
+                "8-9Y"
+            ],
+            "Product_Colors": [
+                "Off White"
+            ],
+            "Product_Category": "Kids"
+        },
+        {
+            "Product_ID": 7,
+            "Product_Name": "Kids' Stripe Organic Cotton & Linen Dress",
+            "Product_Price": 84.068,
+            "Product_Images": [
+                "https://n.nordstrommedia.com/id/sr3/2770152c-9008-4865-9c62-2a805bc8e777.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/f61d1f60-95b9-4839-9635-473969674175.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/39d82d13-7d36-4e21-8710-01643cb1a475.jpeg?crop=pad&w=780&h=1196",
+                "https://n.nordstrommedia.com/id/sr3/87e4f21e-0d5f-4194-857a-ba1dc0d2275c.jpeg?crop=pad&w=780&h=1196"
+            ],
+            "Product_Sizes": [
+                "4-5Y",
+                "6-7Y",
+                "8-9Y"
+            ],
+            "Product_Colors": [
+                "Green Frozen",
+                "Blue Sailor",
+                "Pink",
+                "Coral Cedar"
+            ],
+            "Product_Category": "Kids"
+        },
+        {
+            "Product_ID": 8,
+            "Product_Name": "Kids' Glow in the Dark Fitted Two-Piece Short Pajamas",
+            "Product_Price": 22.163,
+            "Product_Images": [
+                "https://n.nordstrommedia.com/id/sr3/e40f4144-1d10-4c3f-96bd-cab45551c497.jpeg?crop=pad&w=780&h=1196"
+            ],
+            "Product_Sizes": [
+                "4-5Y",
+                "6-7Y",
+                "8-9Y"
+            ],
+            "Product_Colors": [
+                "Blue Frozen- Multi Dino Glow"
+            ],
+            "Product_Category": "Kids"
+        }
+    ]
+}

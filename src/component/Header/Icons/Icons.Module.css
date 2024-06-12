@@ -1,0 +1,41 @@
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 30px;
+}
+.icons *{
+    text-decoration: none;
+}
+
+.Sign{
+    border:2px solid var(--DarkBrown);
+    color: var(--DarkBrown);
+    padding: 10px 25px;
+    text-decoration: none;
+}
+.Sign:hover{
+    background-color: var(--DarkBrown);
+    color: var(--WhiteBrown);
+    transition: 0.5s all linear;
+}
+.cart,.favorite{
+    font-size: 25px;
+    color: var(--DarkBrown);
+    
+}
+.favorite{
+    margin-right: 20px;
+}
+.NumItemCart{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color:var(--WhiteBrown) ;
+    color: var(--DarkBrown);
+    text-align: center;
+    position: absolute;
+    top: -13px;
+    right: -10px;
+}

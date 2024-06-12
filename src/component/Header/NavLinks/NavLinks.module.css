@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+li{
+    list-style: none;
+    margin-right: 30px;
+    font-size: 18px;
+}
+.NavLink{
+    text-decoration: none;
+    color: var(--DarkBrown);
+    padding: 5px 8px;
+}
+li:hover .NavLink{
+    border-bottom:2px solid var(--DarkBrown);   
+}

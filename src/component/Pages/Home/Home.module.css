@@ -1,0 +1,64 @@
+.HomePage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: var(--MarginSectionTop);
+}
+
+.Cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:20px;
+    padding: 50px var(--rlPadding);
+    margin: 0 auto ;
+}
+.card{
+    width: 300px;
+    position: relative;
+    display: flex;
+    box-shadow: 2px 2px 7px 2px #44332c82;
+}
+.Icons{
+    background-color: transparent;
+    width: 0;
+    height: 100%;
+    position: absolute;
+    z-index: 1000;
+    right: -10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+    visibility: hidden;
+}
+.Coloring{
+    display: flex;
+}
+.productInfo{
+    padding:10px 5px;
+}
+.productInfo > *{
+    margin-bottom: 20px;
+}
+h3{
+    max-width: 240px;
+}
+.LinkViewProduct{
+    color: bisque !important;
+}
+.card:hover  .Icons{
+    color: bisque;
+    transition:  all 0.5s linear;
+    background-color: var(--DarkBrown);
+    animation: MoveBlockIcon 0.5s linear 1 both;
+    right: 0;
+}
+@keyframes MoveBlockIcon {
+    to{
+        width: 50px;
+        visibility: visible;
+    }
+}
